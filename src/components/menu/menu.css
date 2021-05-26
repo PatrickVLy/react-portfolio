@@ -1,0 +1,41 @@
+.menu{
+    width: 200px;
+    height: 100vh;
+    background-color: #414141;
+    position: fixed;
+    top: 0;
+    right: -200px;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transition: all 1s ease;
+}
+
+.menu.active{
+    right: 0;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 30px;
+    color: white;
+    font-family: "Oswald";
+    width: 60%;
+}
+ul li{
+    font-weight: 300;
+    margin-bottom: 25px;
+}
+
+ul li:hover{
+    font-weight: 500;
+}
+ul li a {
+    font-size: inherit;
+    color: inherit;
+    text-decoration: none;
+}

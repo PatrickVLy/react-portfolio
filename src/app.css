@@ -1,0 +1,36 @@
+.app{
+    height: 100vh;
+}
+
+.sections{
+    width:100%;
+    height: calc(100vh - 70px);
+    background-color: black;
+    position: relative;
+    top: 70px;
+    scroll-behavior: smooth;
+    scroll-snap-type: y mandatory;
+   
+    
+}
+
+a{
+    color: white;
+}
+
+h2{
+font-size: 36px;
+font-family: "Oswald";
+font-weight: 700;
+text-transform: uppercase;
+
+}
+
+p {
+    font-size: 18px;
+    font-family: "Roboto";
+    font-weight: 200;
+    line-height: 24px;
+    letter-spacing: 3px;
+
+}

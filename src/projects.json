@@ -1,0 +1,76 @@
+[
+    {
+      "title": "Emomii: Mood Tracker",
+      "image": "https://pattymcpat.github.io/updated-portfolio/emomii.png",
+      "link": "https://emomii.herokuapp.com",
+      "repo": "https://github.com/pattymcpat/emomii/",
+      "desc": "A full stack application that allows a user to track their moods and emotions as well as write daily journal entries. Their emotional state is then tracked on charts and graphs to help the user identify emotional patterns"
+    },
+    {
+      "title": "Password Generator",
+      "image": "https://pattymcpat.github.io/updated-portfolio/hw1.png",
+      "link": "https://pattymcpat.github.io/password-generator/",
+      "repo": "https://github.com/pattymcpat/password-generator",
+      "desc": "An Application that will generate a secure password based on user set parameters"
+    },
+    {
+      "title": "Game of Clicks",
+      "image": "https://pattymcpat.github.io/updated-portfolio/gameofclicks.png",
+      "link": "https://pattymcpat.github.io/gameofclicks/",
+      "repo": "https://github.com/pattymcpat/gameofclicks",
+      "desc": "A memory game made with React, Click on as many characters as possible without clicking on the same character twice."
+    },
+    {
+      "title": "Employee Directory",
+      "image": "https://pattymcpat.github.io/updated-portfolio/employeedirectory.png",
+      "link": "https://pattymcpat.github.io/employee-directory/",
+      "repo": "https://github.com/pattymcpat/employee-Directory",
+      "desc": "An Employee Directory app made with react that allows a user to search for employees and filter results"
+    },
+    {
+      "title": "Tech Blog",
+      "image": "https://pattymcpat.github.io/updated-portfolio/techblog.png",
+      "link": "https://patricks-tech-blog.herokuapp.com",
+      "repo": "https://github.com/pattymcpat/tech-blog",
+      "desc": "A Full stack application that allows users to create an account and post blog entries to the public forum"
+    },
+    {
+      "title": "Note Taker",
+      "image": "https://pattymcpat.github.io/updated-portfolio/notetaker.png",
+      "link": "https://patricks-note-taker.herokuapp.com/",
+      "repo": "https://github.com/pattymcpat/note-taker",
+      "desc": "Allows a user to write, store, and delete notes"
+    },
+
+    {
+      "title": "Work Day Scheduler",
+      "image": "https://pattymcpat.github.io/updated-portfolio/hw2.png",
+      "link": "https://pattymcpat.github.io/scheduler/",
+      "repo": "https://github.com/pattymcpat/scheduler",
+      "desc": "An Application that uses local storage to store and plan a users day at work. "
+    },
+
+    {
+      "title": "Work Day Scheduler",
+      "image": "https://pattymcpat.github.io/updated-portfolio/hw3.png",
+      "link": "https://pattymcpat.github.io/weather-dashboard/",
+      "repo": "https://github.com/pattymcpat/weather-dashboard",
+      "desc": "An Application that allows a user to pull current weather information as well as a 5-day forcast for their selected destination"
+    },
+
+    {
+      "title": "E-Commerce Backend",
+      "image": "https://github.com/pattymcpat/e-commerce-backend/raw/main/screenshot.png",
+      "link": "https://www.youtube.com/watch?v=6f4TMv6Z_vs",
+      "repo": "https://github.com/pattymcpat/e-commerce-backend",
+      "desc": "For this project I demonstrated how to connect to a backend server to make GET/PUT/POST/DELETE requests with insomnia"
+    },
+    {
+      "title": "Team Profile Generator",
+      "image": "https://github.com/pattymcpat/team-profile-generator/raw/main/1.png",
+      "link": "https://youtu.be/p8U71iUwC14",
+      "repo": "https://github.com/pattymcpat/team-profile-generator",
+      "desc": "For this project I created a command line application, running on node.js to gather team member information and then renders an HTML page"
+    }
+
+  ]
